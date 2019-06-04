@@ -111,7 +111,7 @@ jQuery(divpopup).attr('id', 'myModalthanh');
 jQuery(divpopup).attr('class', 'thanhfaceseo-modal');
 jQuery( "body" ).append(divpopup);
 var titleform='Đăng ký Form';
-var urlform="https://duanphulong.blogspot.com/";
+var urlform="https://docs.google.com/forms/d/e/1FAIpQLSd6MUmFPYqHxci1gS14BgPF-Sspz8zA9XTC8yQVzYb_dAX_SA/formResponse";
 var urlchuyen=window.location.href;
 var hovaten="171122648";
 var dienthoai="449456933";
